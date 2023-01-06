@@ -47,6 +47,39 @@ section{
 /* this is failures area */
 .failures-area{
     display: flex;
+    padding-top: 140px;
+    padding-bottom: 100px;
+
+}
+.failures-imag{
+    
+}
+.failure-containt{
+    padding-left: 100px;
+}
+.section-title{
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 240px;
+    padding-bottom: 20px;
+   
+}
+.section-description{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+.lists{
+    padding-left: 20px;
+}
+.lists ol li{
+    list-style: circle;
+    padding-bottom: 10px;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
     
 }
 

@@ -16,13 +16,14 @@ section{
 }
 .banner{
     text-align: right;
+    padding-left: 30px;
     
 }
 .banner-title{
     color: #FFFFFF;
     font-weight: 700;
-    font-size: 65px;
-    line-height: 76px;
+    font-size: 60px;
+    line-height: 70px;
     padding-top: 200px;
     padding-bottom: 20px;
     
